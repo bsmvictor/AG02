@@ -18,7 +18,7 @@ Usando o conjunto de dados "Wholesale Customers", o modelo utiliza os gastos anu
 1. Clone este repositório. 
 2. Instale as bibliotecas necessárias:
 ```
-pip install pandas scikit-learn
+pip install pandas scikit-learn termcolor
 ```
 3. Execute o script AG2.py:
 ```
