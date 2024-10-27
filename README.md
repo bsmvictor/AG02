@@ -4,7 +4,7 @@ Este projeto aplica técnicas de aprendizado de máquina para classificar transa
 ## Descrição do Projeto
 Usando o conjunto de dados "Wholesale Customers", o modelo utiliza os gastos anuais dos clientes em diversas categorias de produtos (como frescos, laticínios, mercearia, etc.) para prever o canal de vendas da transação. Este projeto usa o classificador k-Nearest Neighbors (k-NN) com k=7, que foi testado como o valor que produz a maior precisão neste caso.
 
-## Video de apresentação:
+## Video de apresentação: [Victor Boaventura - AG02](https://youtu.be/spIq3BSl5x4)
 
 ## Estrutura do Projeto
 - **AG2.py**: Script principal que:
