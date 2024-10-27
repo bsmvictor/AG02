@@ -22,13 +22,13 @@ Usando o conjunto de dados "Wholesale Customers", o modelo utiliza os gastos anu
 ```
 pip install pandas scikit-learn termcolor
 ```
-3. Execute o script AG2.py:
+3. Execute o script:
 ```
-python AG2.py
+python Victor_Boaventura_GEC_1807.py
 ```
 
 ## Uso
-1. Execute o script principal `AG2.py`.
+1. Execute o script principal `Victor_Boaventura_GEC_1807.py`.
 2. O modelo exibirá as métricas de avaliação (como precisão e recall) para o conjunto de teste.
 3. Em seguida, o script permitirá que você insira detalhes de uma transação para classificação. Insira os valores conforme solicitado, e o modelo retornará o canal de vendas previsto (HoReCa ou Retail).
    
